@@ -1,21 +1,45 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	
-	>
-<channel>
-	<title>
-	Comments on: News &#038; Events	</title>
-	<atom:link href="https://www.unity-sc.com/news/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.unity-sc.com</link>
-	<description>Metrology and inspection solutions for semiconductor applications</description>
-	<lastBuildDate>Mon, 19 Sep 2022 08:37:41 +0000</lastBuildDate>
-	<sy:updatePeriod>
-	hourly	</sy:updatePeriod>
-	<sy:updateFrequency>
-	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.1</generator>
-</channel>
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>rss_fetcher_unity-sc</title>
+    <link>https://github.com/RSS-Fetcher/News_Fetcher/blob/144b84d02f48c7111956e7cf4f8d4360f9379e4f/feed.xml</link>
+    <description>RSS feed for the Unity-SC project</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Tue, 26 Sep 2023 17:25:26 +0000</lastBuildDate>
+    <item>
+      <title>Germany commits to Ams Osram funding</title>
+      <link>https://compoundsemiconductor.net/article/117681/_Germany_commits_to_Ams_Osram_funding</link>
+      <description>Ams Osram has learned that it will get substantial public funding from the German federal government and the Free State of Bavaria to boost the further development of semiconductor technology. The envisaged IPCEI funding (Important Project of Common European Interest) will support Ams Osram in making its own investments in the research and development of optoelectronic components at its Regensburg location.
+The subsidy is thought to be more than €300 million, which will be mainly invested in activities for the research and development of optoelectronic semiconductors and their manufacturing processes, creating 400 new high-tech jobs. In addition, Ams Osram will invest in new clean room and laboratory facilities for research, development and pilot production for working on applications such as UV-C LEDs for disinfection and near-infrared emitters for LiDAR for autonomous driving.
+Another special focus will be microLEDs. Automation and AI generally play a major role in Regensburg, enabling Ams Osram to break new ground at its production facilities. The construction of the first pilot assembly line for 8 inch wafer production is currently underway in order to launch the cost-efficient large-scale production of highly innovative microLEDs in the very near future.
+“By expanding our development activities in the field of optoelectronic semiconductors, we can create room for innovation and accelerate the time to market for our products”, emphasises Aldo Kamper, CEO of Ams Osram. “At the same time, our investment is a clear commitment to Regensburg as an industrial hub, Bavaria as a high-tech location, and Europe as a hotbed of innovation. High tech light from Regensburg belongs to the city like St. Peter´s Cathedral and the Old Stone Bridge. Here we create new, energy-efficient products and production processes to drive digitalisation and thus support the European Green Deal and the autonomy of Europe in the field of semiconductors. In line with our future-oriented 'Re-Establish the Base' program, we will continue to build on Ams Osram’s market-leading core competency and shape the future of the semiconductor market from this Bavarian city.
+Hubert Aiwanger, Bavarian Minister of Economic Affairs, stresses: “Ams Osram stands for high tech made in Regensburg. As the Bavarian state government, we deliberately participate in the financing of this IPCEI project. This is fully in line with our intention to further expand Bavaria as a top international location for the semiconductor industry. Every euro is well invested and will create new jobs in a highly innovative environment.”
+Ams Osram has already been developing semiconductors in Regensburg for 50 years. 2,700 employees currently work at the location. Ams Osram ranks number two worldwide in the optoelectronic semiconductor market.
+</description>
+      <guid isPermaLink="false">74</guid>
+      <pubDate>Tue, 26 Sep 2023 17:25:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coherent introduces 1200mW laser for optical amplification</title>
+      <link>https://compoundsemiconductor.net/article/117682/Coherent_introduces_1200mW_laser_for_optical_amplification</link>
+      <description>Coherent has announced the industry’s first pump laser module with 1200 mW of output power in a 10-pin butterfly package.
+Rapid advances in optical communications technologies are reaching the theoretical limits of fibre-optic capacity and driving the expansion of transmission windows into the extended C- and L-bands. Coherent says these 1200 mW pump lasers provide the additional power needed to amplify the larger number of channels supported by these next-gen ultra-broadband optical transmission systems while meeting the stringent reliability requirements of these advanced networks.
+“This is the highest-power commercially available pump laser module on the market, fully qualified, and available today,” said Beck Mason, EVP, Telecommunications Business Unit.
+The pump laser module, which is available in standard and low-power-consumption versions, allows designers to overcome increased losses in complex amplifier and system architectures and achieve higher-performance, cost-effective, and reliable amplifier designs. Available in a range of power specifications up to and including 1200 mW, the product allows single pump laser solutions in applications historically requiring two separate lasers.
+Coherent will exhibit at ECOC 2023 in Glasgow, Scotland, Oct. 2-4. At the conference, Coherent will showcase the most recent additions to its broad portfolio of differentiated solutions for telecom and datacom optical networks.</description>
+      <guid isPermaLink="false">73</guid>
+      <pubDate>Tue, 26 Sep 2023 17:25:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>University of Illinois to get Samco plasma etching system</title>
+      <link>https://compoundsemiconductor.net/article/117683/University_of_Illinois_to_get_Samco_plasma_etching_system_</link>
+      <description>Samco will be installing a plasma etching system RIE-10NR early in 2024 as the newest update to the Materials Research Lab (MRL) at the University of Illinois Urbana-Champaign (UIUC).
+The MRL facility has two Class-100 clean rooms totalling 1,900 square feet with instrumentation for micro/nano-fabrication projects including wet and chemical etching, deposition, spin coaters, mask aligners, optical, 3D and electron beam lithography. The RIE-10NR, a compact, fully automatic reactive ion etching system, is the latest equipment upgrade. The tool can etch various materials including Si, SiO 2 , SiN, Poly-Si, GaAs, Mo, Pt, and Polyimide.
+Director of research facilities at University of Illinois Urbana-Champaign’s MRL, Mauro Sardela commented: “We are hoping to upgrade our RIE capabilities to better support our base of more than 1,000 users. We hope to provide state-of-the-art etching uniformity in our test devices, combined to easy-to-use interface for our various students.”
+Tsukasa Kawabe, president and COO of Samco, said: “Here at Samco, we specialise in making systems like the RIE-10NR, which has an exceptionally small footprint, is cost-effective, boasts exceptional reliability, and benefits from more than three decades of continuous improvements. We are always looking for ways to add value to both the world and for our clients.”</description>
+      <guid isPermaLink="false">72</guid>
+      <pubDate>Tue, 26 Sep 2023 17:25:26 +0000</pubDate>
+    </item>
+  </channel>
 </rss>
